@@ -1,0 +1,625 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of a moderate intelligencer with some select poems. / Written by the same author. J.C.</title>
+            <author>Cleveland, John, 1613-1658.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 26 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79952</idno>
+            <idno type="STC">Wing C4668</idno>
+            <idno type="STC">Thomason E385_9</idno>
+            <idno type="STC">ESTC R201460</idno>
+            <idno type="EEBO-CITATION">99861965</idno>
+            <idno type="PROQUEST">99861965</idno>
+            <idno type="VID">114111</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79952)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114111)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E385[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of a moderate intelligencer with some select poems. / Written by the same author. J.C.</title>
+                  <author>Cleveland, John, 1613-1658.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>J.C. = John Cleveland.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Aprill 29. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nedham, Marchamont, 1620-1678 --  Early works to 1800.</term>
+               <term>Moderate intelligencer --  Early works to 1800.</term>
+               <term>Newsletters --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Journalists --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-03</date>
+            <label>Aptara</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="character">
+            <pb n="1" facs="tcp:114111:1" rendition="simple:additions"/>
+            <head>THE CHARACTER
+OF A
+Moderate Intelligencer
+With ſome ſelect Poems.</head>
+            <byline>Written by the ſame Author. J. C.</byline>
+            <p>
+               <seg rend="decorInit">A</seg>N Intelligencer is a State-ſpie, he pries into each mans
+breaſt, and would faine know all mens crimes but his
+owne; He is a conſtant Imitator of <hi>HOLING<g ref="char:EOLhyphen"/>SHEAD,</hi>
+his Lines are as harſh and unpleaſant,
+ſave that he makes more SPEED, and is not ſo Volu<g ref="char:EOLhyphen"/>minous,
+yet he will tell you as queint ſtories, as either of thoſe
+Chronographers, and make as artificiall a Narration of Sheriffs and
+Bailiffs; He is the Countrimans Chronicler, and he ſings <hi>JO PEANS</hi>
+to his Muſe, as to the Ruſticke Dieties; He is the Citizens
+Harbinger, and ſaveth him the labour of walking on the Change to
+heare newes; He is the Epitome of wit, and is contracted in ſo
+ſmall a circumference, that you may draw him through a loop-hole,
+or ſhoot him as a pellet out of an Elder-gun: and though he tell lies
+by the groſſe, yet he would have the Booke-turners of this Iſle to
+beleeve that he uſeth Moderation.</p>
+            <p>He hath ſeene the <hi>exit</hi> of his great Maſter, that impudent and
+incorrigible Reviler <hi>Britanicus,</hi> who while the world laſts ſhall
+never be mentioned by any, but to his ſhame and infamy; and yet he
+hopeth he is fixed ſo ſurely, that all the ſtrength of wit cannot eradi<g ref="char:EOLhyphen"/>cate
+him: he will tell you his Majeſty is in health, is merry, plaies
+<pb n="2" facs="tcp:114111:2"/>
+at Cheſſe, &amp;c. And then he will comment on His actions, and wiſh
+he had never lent his eares to evill Councellours, evill indeed,
+when he betrayed his power; then he will counterfeit a whining
+paſſion, and condole with Crocodiles teares his preſent eſtate;
+then he will take a large ſtride, and celebrate the names of the
+principall of the <hi>Decemvirs;</hi> he will tell you, that Generall <hi>Leven</hi>
+is in his ſtudy, beating his braines to a gelly, to project apt waies
+for the ſafety of the contracted Kingdomes, and in deepe medita<g ref="char:EOLhyphen"/>tion,
+how to ſubdue <hi>Antrim</hi> and his handfull, and tying knots of
+concord never to be diſſolved; that <hi>Ormund</hi> hath revolted without
+horrour of conſcience, and thinketh not that his Majeſties Ghoſt
+haunts him, that he is at <hi>Dulcarnan,</hi> even at his wits end.</p>
+            <p>That <hi>Holmby</hi> is richly decked for his Majeſties entertainment;
+and that he ſhall commit Sacriledge unwittingly, drinke in that
+new molten Plate once dedicate to the Temple; that he will not yet
+hearken to <hi>Marſhals</hi> Inſtructions, nor heare him to his face revile
+him; that he is yet minded to weare his Crowne, and not to pro<g ref="char:EOLhyphen"/>ſtrate
+it and himſelfe at the feet of his vaſſals, that he will not yet
+be contented to have a Gallemoffrey of Religions, but will have
+but one, and that forme of Church Government which ſo many
+holy Martyrs have ſealed with their bloud; that he is angry his
+Queene ſhould be forced from him, and the Revenewes of his
+Crowne maintaine an Army againſt him.</p>
+            <p>That the Prince is in <hi>France,</hi> and is much to be doubted, that he
+will incenſe all Chriſtendome to revenge his Fathers wrongs; then
+with a ſwift carriere he will tranſport himſelfe into <hi>Holland,</hi> and
+not feare to belye Forraigne Nations; he can with wondrous faci<g ref="char:EOLhyphen"/>lity
+make the <hi>Swedes</hi> and <hi>Imperialiſts</hi> ſhake hands, and by and by
+meet in battle; he can ralley a ſcattered Troope that ran cleane
+away, and conſtraine them to returne and fight luſtily; he will tell
+you, that the Turke intendeth no more to invade Chriſtendome,
+but confine his Silver Moone within her owne proper Orbe; that
+<hi>Don Camillo Panfillio</hi> the Popes Nephew, is married to the
+Prince <hi>Roſſeanos</hi> widdow, and beſtow a whole page in diſcourſing
+that ſhe put off her mourning habit, as if any would imagine a
+Princeſſe would be married in Sable weeds; that her Veſtiments
+were very rich, who will not eſteeme that poſſible enough? that
+they were married by the Vicegerent, in the preſence of the
+Prince <hi>Lodoviſſio,</hi> O ſtrange providence I that the Brides Mother,
+and her Coſin ſtood by; this nothing impoſſible neither, that af<g ref="char:EOLhyphen"/>ter
+<pb n="3" facs="tcp:114111:2"/>
+they had knit the gordion knot, Embaſſadours and Lords ſent to
+Complement them: take the ſubſtance of the narration thus, the
+Popes Nephew <hi>Camillo Panfillio</hi> was married to the Prince <hi>Roſ<g ref="char:EOLhyphen"/>ſeanos</hi>
+widdow, they both being attyred in brave cloaths, things
+which great perſons ſeldome put on; that the Prince <hi>Lodoviſſio,</hi>
+the Brides mother and Coſin ſtood by while they were married,
+and when they forſooke the Temple, divers Lords and Embaſſadors
+were ſo mannerly as to complement with them by their ſeverall
+Proxeis; ha, ha, ha, a fine ſtory of <hi>Tom Thumbe</hi> ſitting under a
+Cabbadge leafe: thus he ſtuffes a Cuſhion with ſtubble, alas, how
+elſe ſhould he amount to a ſheet and an halfe, and encreaſe the
+trade of Paper? After this he will leade you into <hi>Ruſſia,</hi> to ſee the
+Sea coagulated, and the noſe of a Bore wipt away by the frozen
+hand of <hi>Hyoms;</hi> then againe into <hi>Turkie</hi> to ſee the <hi>Mahometans</hi>
+ſit and tipple in their <hi>Coffa</hi> houſes, and in the ſtreets lowſing them<g ref="char:EOLhyphen"/>ſelves
+at noone day; then into <hi>Germany</hi> to ſee the ruines of war,
+and the fatall effects of Schiſms and Factions; then into <hi>Scotland,</hi>
+and there ſhew <hi>Kilketto</hi> exerciſing his Troopes, and giving them
+Military Diſcipline, incouraging them yet to maintaine their So<g ref="char:EOLhyphen"/>veraignes
+cauſe (Fortune doth not alwaies bend her browes on
+one party) and once more to elevate a trodden downe King; to
+avenge the deaths of <hi>Strafford, Lindſey,</hi> and <hi>Canterbury;</hi> to place
+K. <hi>Charles</hi> in his Throne by force (intreaties not the leaſt availing)
+to Impede the growth of Schiſme, and to cauſe the ſeditious and
+obſtinate to be dutious and plyable; then, as if he ran round in a ring,
+with a trice he will be againe in <hi>England.</hi>
+            </p>
+            <p>But he will not relate to you, that the Incendiaries there are ſo
+out of conceit with the piece of worke, about which they have ſo
+long been hammering, finding their labour ſpent in vain, to the loſſe
+of their time and credit, that they wiſh they had never handled car<g ref="char:EOLhyphen"/>ving
+tooles, nor ever kindled a fire to ſcorch their owne fingers;
+while like a Mill-horſe they have gone often round, and now are
+arived at the ſame ſtation where firſt they ſet forth; nor that they
+feare his Majeſties wrongs are ſo deeply imprinted in his breaſt,
+that now having drawn the Sword, they may throw away the Scab<g ref="char:EOLhyphen"/>bard,
+and never looke to ſheath it againe.</p>
+            <p>Nor that <hi>London</hi> is become another <hi>Amſterdam,</hi> and that there
+is a tolleration of all Religions, that they are a mixt multitude, ſuch
+as went with the Children of <hi>Iſrael</hi> out of the Land of <hi>Aegypt,</hi> a
+medley of Jews and Infidels; ſome Presbyters, ſome Independents,
+<pb n="4" facs="tcp:114111:3"/>
+ſome Anabaptiſts, ſome Browniſts, ſome Arminians, and ſome
+Antinomians (that is) ſome <hi>Babell</hi> builders; ſome of their Sect
+againſt whom <hi>Paul</hi> diſputed, when he fought with beaſts at <hi>Ephe<g ref="char:EOLhyphen"/>ſus,</hi>
+Libertines; ſome Dippers, whom Learned <hi>Featly</hi> plunged in
+<hi>Cocytus</hi> Lake; ſome deſpiſers of Gods Ordinance, the Diſciples
+of <hi>Browne;</hi> ſome that have a will and ability of themſelves to
+achieve any thing ſave what is pious, whom King <hi>James</hi> hath ſuf<g ref="char:EOLhyphen"/>ficiently
+canvaſed, the Sect of Arminius; and ſome that exclude
+Chriſt from his Mediatourſhip. Nor will he tell you that their hearts
+faile them, and that they feare the one will take vengeance on the
+other, and with <hi>Cains,</hi> that whoſoever meeteth them will ſlay
+them; nor that the Citizens of <hi>London</hi> have bought their wit at
+deare rates, O where was <hi>Diogenes</hi> his Lanthorne? and with their
+expence of Coine and Bloud, have purchaſed his Majeſties wrath:
+nor that the Queene like another <hi>Iſabella,</hi> is courting Forraigne
+ayde, there will be a <hi>John</hi> of <hi>Henault,</hi> who if <hi>France</hi> ſhould de<g ref="char:EOLhyphen"/>generate,
+would aſſiſt her opportune hopes, theſe matters he will
+not informe you, the <hi>Diurnall</hi> and <hi>he</hi> are confederate, and re<g ref="char:EOLhyphen"/>ſolve
+to utter nothing but perfumed breath, and make no Narration
+but what ſhall be pleaſing to the cloſe Committee.</p>
+            <p>With them as Coadjutors, joyne the two Empericke Aſtrono<g ref="char:EOLhyphen"/>mers,
+<hi>Lillie</hi> and <hi>Booker,</hi> who can force the Planets that walke
+retrograde, to make their perambulation no farther then their pro<g ref="char:EOLhyphen"/>per
+circuit, perſwade Malevolent <hi>Saturne</hi> to ſmile with a luckie
+Aſpect, ſmooth up their great Maſters in hope of gaine, ſtuffing
+thoſe empty Bladders with moiſt aire, telling them the motions
+of the ſuperiour Bodies Prognoſticate future Tranquility, that the
+time will never come when they ſhall be examined on ſtrict Inter<g ref="char:EOLhyphen"/>rogatories,
+and yeeld an account of their Stewardſhips to their Roy<g ref="char:EOLhyphen"/>all
+Maſter, for they muſt be no longer Stewards; thoſe two Di<g ref="char:EOLhyphen"/>ſciples
+of <hi>ERRA PATER,</hi> that can make predictions of fair wea<g ref="char:EOLhyphen"/>ther
+in harveſt, and that the Sunne will loſe ſome part of his
+light when he is Ecclipſed, have led the Commons of this King<g ref="char:EOLhyphen"/>dome,
+as the Beares are led by the Noſe with Bagpipes before
+them in the morning, and in the afternoone are worried at the
+Stake, they have caſt a vaile before their eyes, and have led them
+into a deepe pit by the hand.</p>
+            <p>Let <hi>Wharton</hi> Illuminate them, he will ſhew them, that his Ma<g ref="char:EOLhyphen"/>jeſty
+is not yet ſo low, but he reads in the booke of heaven, he
+may be yet raiſed, and that it is poſſible he may once more be as
+<pb n="5" facs="tcp:114111:3"/>
+great as ever; that the Stars threaten the ruine of his enemies,
+and that they (like <hi>Jonas</hi> Gourd) ſhall only flouriſh for an houre,
+and then wither away; and that his Majeſties faithfull Subjects
+may yet have a time mutually to rejoyce together. But here the
+Intelligencer hath left me, and I leave him to peruſe his owne
+ſhame.</p>
+            <div type="poem">
+               <head>The Sub-Committee.</head>
+               <l>THe Slaves are ſet, the inke and Counters ſtands</l>
+               <l>Upon the Table, I at your commands</l>
+               <l>Right Worſhipfull am come, and here have brought</l>
+               <l>For you a paire of pick-tooths, and a groat:</l>
+               <l>Nay riſe not, for your<note n="*" place="margin">their wives</note> hens not cackle yet,</l>
+               <l>Undoe the Countrey, ſeeing you are met.</l>
+               <l>I ſee the Canniballs, when you I eye,</l>
+               <l>Or the man-eating Anthropophagie.</l>
+               <l>You are but under Tyrants not ſo wittie</l>
+               <l>As the Round-Table Knights, the Grand Committee.</l>
+               <l>O were you altogether, you'd out-vie</l>
+               <l>The Athenian Thirty, Romes <hi>Decemviri,</hi>
+               </l>
+               <l>In Rage, Injuſtice, Crueltie, as farre</l>
+               <l>As you above thoſe men in number are.</l>
+               <l>What miſteries of Iniquitie doe we ſee?</l>
+               <l>Our Goods forc't from us, for Proprietie.</l>
+               <l>The King Delinquents to protect did ſtrive,</l>
+               <l>What Clubs, Pikes, Halbeits, Lighters ſav'd the five?</l>
+               <l>O <hi>Charles,</hi> ſhall I accuſe thy diſmall fate,</l>
+               <l>That to Pigwidgins art ſubordinate?</l>
+               <l>Ship-money was unjuſtly tane they ſay,</l>
+               <l>But what Injuſtice tooke the Ships away?</l>
+               <l>To the Kings will the Lawes men ſought to draw,</l>
+               <l>The Subjects will is now become the Law:</l>
+               <l>The Princely Eagle is mew'd up, and Dawes,</l>
+               <l>Howlets and Buzzards, wound him with their clawes;</l>
+               <l>Bright <hi>Sol's</hi> obſcured, and thoſe guide the day,</l>
+               <l>That force his Carr through the moſt oblique way.</l>
+               <l>By what vaſte hopes is your ambition fed?</l>
+               <l>Tis red in bloud, and may be plainly read.</l>
+               <l>
+                  <pb n="6" facs="tcp:114111:4"/>
+The Biſhops Lands, O ſtrange! ye did of late</l>
+               <l>Attempt in gold to tranſubſtantiate:</l>
+               <l>For 'tis 'gainſt Superſtition, your intent</l>
+               <l>Is to root out that great Church-Ornament</l>
+               <l>Money and Lands, your ſwords alas are drawne</l>
+               <l>Againſt the Biſhops, not their Cap or Lawne:</l>
+               <l>And can you thinke that your deſigne will fadge?</l>
+               <l>Can that houſe ſtand is propt with ſacriledge?</l>
+               <l>Beſides Loanes, Contributions, Pole-monies,</l>
+               <l>Bribes, Plunder, and ſuch common privileges,</l>
+               <l>Are words which you'l ne're learne in holy Writ,</l>
+               <l>Till the Spirit and your Synod has mended it.</l>
+               <l>But I conclude, the Scriptures you looke on</l>
+               <l>Not as Gods Word, but as the Alcharon;</l>
+               <l>To yeeld ſubjection you have quite forgot,</l>
+               <l>And therefore Chriſt will ſay, <hi>I know you not.</hi>
+               </l>
+            </div>
+            <div type="epitaph">
+               <head>Epitaph on the Archbiſhop of Canterbury.</head>
+               <l>
+                  <hi>A</hi> Heap of learned Duſt here lies,</l>
+               <l>Englands <hi>Archbiſhop,</hi> whoſe diſguiſe</l>
+               <l>Was ſuch, though 'gainſt the Pope he wrot,</l>
+               <l>His curſt betrayers knew it not.</l>
+               <l>Or would not elſe, but made him be</l>
+               <l>A Martyr to the Papacie.</l>
+            </div>
+            <div type="poem">
+               <head>THE ZEALOUS SECTARY.</head>
+               <l>REligion is a Circle, Men contend</l>
+               <l>And run the round in diſpute without end.</l>
+               <l>The zealous Brothers ſay they doe not dare</l>
+               <l>To take Gods Name in vaine, 'tis ſinne to ſweare,</l>
+               <l>I ſay ſo too; but I'de not have thereby</l>
+               <l>Them priviledg'd, 'bove others for to lie;</l>
+               <l>For to maintaine their new erected cauſe,</l>
+               <l>They hug a lie, and call it <hi>pia fraus;</hi>
+               </l>
+               <l>They whine, and ſigh out lies with ſo much ruth,</l>
+               <l>As if they griev'd 'cauſe they could ne're ſpeake truth:</l>
+               <l>They for to vent their lies have Pulpits choſe,</l>
+               <l>And thruſt them forth apace, at mouth at noſe,</l>
+               <l>
+                  <pb n="7" facs="tcp:114111:4"/>
+And how ere groſſe, are certaine to beguile</l>
+               <l>The erring Earth-wormes of this middle Ile;</l>
+               <l>Nay to the Almighties ſelfe they have been bold</l>
+               <l>To lie, and <hi>Greene</hi> the Anabaptiſt told</l>
+               <l>They might ſay falſe to God; for if things were</l>
+               <l>Not as they wiſht, moſt ſure God was not there.</l>
+               <l>Not all the Legends of the Saints of old,</l>
+               <l>Nor vaſt <hi>Baronius,</hi> nor ſlye <hi>Surius</hi> hold</l>
+               <l>Such plenty of apparant lies as are</l>
+               <l>Vented by theſe men, they in lies doe ſhare.</l>
+               <l>Nay more, theſe power over the Scriptures take,</l>
+               <l>Blot out ſome clauſes, and ſome new ones make;</l>
+               <l>
+                  <hi>Knolles</hi> durſt avouch it would doe wondrous well</l>
+               <l>
+                  <hi>To race out,</hi> Chriſts deſcending into Hell,</l>
+               <l>From forth the Creed; but hee'l ne're change I feare</l>
+               <l>The ſentence of his owne <hi>deſcending there:</hi>
+               </l>
+               <l>Yet modeſtly they uſe the Creed, for they</l>
+               <l>Would wiſely take the Lords Prayer, root &amp; branch away;</l>
+               <l>And wiſely ſaid a <hi>Levit</hi> of our Nation,</l>
+               <l>The Lords Prayer was a Popiſh Innovation;</l>
+               <l>Take heed, you'l grant ere long it ſhould be fed,</l>
+               <l>An't be but to deſire your daily bread.</l>
+               <l>Organs to play i'th' Church offends their ſence,</l>
+               <l>And therefore they have ſung it out from thence:</l>
+               <l>Which ſhewes, if right their minds were underſtood,</l>
+               <l>They hate it not as Muſicke, but as Good:</l>
+               <l>Their madneſſe makes them ſing as much as they</l>
+               <l>Daunce, who are bit with a Tarrantula.</l>
+               <l>Ye have your wiſh, Gods worſhip is put downe,</l>
+               <l>Alas that vaniſht, when <hi>Charles</hi> miſt his Crowne</l>
+               <l>When you began with bloud to fat our Coaſt,</l>
+               <l>That fatall debt paid to great <hi>Straffords</hi> Ghoſt;</l>
+               <l>When hoodwinkt with your zeale, you durſt defie,</l>
+               <l>And even too aſſault his Majeſtie.</l>
+               <l>Your Ship doth lie at Anchor, but if ſcann'd,</l>
+               <l>You have no Cable, but a Rope of Sand.</l>
+            </div>
+            <div type="poem">
+               <pb n="8" facs="tcp:114111:5"/>
+               <head>To Cupid an Ironicall Recantation.</head>
+               <l>PArdon <hi>Love,</hi> my great offence,</l>
+               <l>And my wilfull Inſolence,</l>
+               <l>That durſt boaſt, I ne're would be</l>
+               <l>Subject to thy Deitie.</l>
+               <l>Thou that Lovers hearts inflam'ſt,</l>
+               <l>And the proudeſt Champions tam'ſt,</l>
+               <l>Take thy quiver and thy bow,</l>
+               <l>And thy wonted power ſhow.</l>
+               <l>Draw thy Arrow to the head,</l>
+               <l>But not that is tipt with lead,</l>
+               <l>Wound ſweet <hi>Delia,</hi> as thou didſt,</l>
+               <l>When my heart ſo right thou hitſt,</l>
+               <l>Pierce her obdurate heart, that I</l>
+               <l>May in her Societie</l>
+               <l>Be link't, whoſe beauty dimm's the Sunne;</l>
+               <l>Who when he ſpies, backe doth runne</l>
+               <l>All aſhamed, that her eye</l>
+               <l>Should with his glorious luſtre vie;</l>
+               <l>Wound her deeply, elſe I feare</l>
+               <l>She ne're buckſome will appeare</l>
+               <l>Unto me, who dare to woe</l>
+               <l>Her whom ſervice ſtrive to doe</l>
+               <l>Thoſe who far (to outward ſence)</l>
+               <l>'Bove me challenge preheminence.</l>
+               <l>I acknowledge, juſt it were</l>
+               <l>If thou ſhouldſt to ſhoot forbeare,</l>
+               <l>But thy mercy I implore,</l>
+               <l>To forgot what was before:</l>
+               <l>And for the future I will be</l>
+               <l>Another <hi>Ovid</hi> unto thee.</l>
+            </div>
+            <div type="poem">
+               <head>To DELIA, Scorning him.</head>
+               <l>LAdy, ſcorne me not cauſe I</l>
+               <l>Jet it not in bravery,</l>
+               <l>
+                  <pb n="9" facs="tcp:114111:5"/>
+Nor becauſe I Lands doe want,</l>
+               <l>Nor becauſe my coine is ſcant;</l>
+               <l>I have that the world can't get,</l>
+               <l>Nor yet for money purchaſe it.</l>
+               <l>When as thy Silken Lovers all,</l>
+               <l>Having receiv'd their buriall,</l>
+               <l>Shall on earth be quite forgotten,</l>
+               <l>Ere their earthly Trunkes are rotten:</l>
+               <l>I ſhall live by will of Fame,</l>
+               <l>And ever on the earth have name.</l>
+               <l>Then ſmooth thy rugged front, and be</l>
+               <l>More blithe, thou my ſole Deitie,</l>
+               <l>Divineſt Beauty, let me twine</l>
+               <l>Thy body in theſe armes of mine,</l>
+               <l>And be more happy, then if I</l>
+               <l>Did command a Monarchy.</l>
+               <l>Thy rare vertues I'le rehearſe,</l>
+               <l>Sing thy praiſe in lofty verſe,</l>
+               <l>That ſhall make thee honor'd be</l>
+               <l>Unto all Poſteritie,</l>
+               <l>Equalling <hi>Julia, Lawra, Stella,</hi>
+               </l>
+               <l>
+                  <hi>Cynthia, Lesbia, Amorella.</hi>
+               </l>
+               <l>Then O deareſt cleare thy brow,</l>
+               <l>And ſome grace to him allow,</l>
+               <l>Who for thy disdaine doth languiſh,</l>
+               <l>Grant him favour, ceaſe his anguiſh.</l>
+               <l>Thy ſweet beautie drew me on,</l>
+               <l>Thus thy heart to ſet upon:</l>
+               <l>Be not guilty of my death,</l>
+               <l>If thou hat'ſt me, 'reave my breath:</l>
+               <l>I ſhall eſteeme it my chiefe bliſſe,</l>
+               <l>If thy faire hand my ſoule diſmiſſe:</l>
+               <l>But if pittie move thy mind,</l>
+               <l>And that to love thou art inclin'd,</l>
+               <l>Let me know my happineſſe,</l>
+               <l>That my thankes I may ezpreſſe</l>
+               <l>Unto <hi>Cupid,</hi> and may praiſe</l>
+               <l>His goodneſſe to me in my Laies.</l>
+            </div>
+            <div type="poem">
+               <pb n="10" facs="tcp:114111:6"/>
+               <head>The ſtrange Divorce on the Queens departure out of England.</head>
+               <l>It cannot be that thou ſhouldſt ſo depart,</l>
+               <l>And we not ſtrive thy journey to divert.</l>
+               <l>Shall <hi>Charles</hi> loſe half himſelfe, and we not mourne,</l>
+               <l>And on our knees invoke thee to returne?</l>
+               <l>They'r ſilent all, a lethargie doth ceaze</l>
+               <l>Upon their minds, a crampe hath tane their knees,</l>
+               <l>They ſee their loſſe, and yet untroubled ſtand,</l>
+               <l>See thy wing'd Veſſell launch out from the Strand,</l>
+               <l>Behold their Soveraigne bewaile his ſtate</l>
+               <l>With ſighs and teares, their crimes to expiate.</l>
+               <l>Have patience, dread Lord, and ceaſe remorſe,</l>
+               <l>Heaven it ſelfe weeps at this ſtrange Divorce,</l>
+               <l>The Angels ſigh, the genius of the Land</l>
+               <l>Covers her face, and doth amazed ſtand:</l>
+               <l>But thou ere long ſhalt ſee bright <hi>Sol</hi> diſplay</l>
+               <l>His beames on earth, and make a gawdie day.</l>
+               <l>Great <hi>Neptune</hi> calme thy waves, thou now doſt beare</l>
+               <l>
+                  <hi>Englands</hi> Great Queene, who takes the Sea for feare:</l>
+               <l>Not as <hi>Europa,</hi> when ſhe backt the Bull</l>
+               <l>Whence Lybian <hi>Hammon</hi> hath his horned skull;</l>
+               <l>Not as <hi>Atrides</hi> wife, when ſhe forſooke</l>
+               <l>Her Lord, to doate on <hi>Alexanders</hi> looke;</l>
+               <l>But oh accurſt, forc't on thy waves to run,</l>
+               <l>Her Husbands much bewailed fate to ſhun.</l>
+               <l>Let <hi>Aeol</hi> bind the winds in gyves of braſſe,</l>
+               <l>Not ſuffer <hi>Boreas</hi> from his Cave to paſſe;</l>
+               <l>Let <hi>Mermaids</hi> with the <hi>Syrens</hi> now agree,</l>
+               <l>As her Ship glides, to chaunt harmoniouſly;</l>
+               <l>
+                  <hi>Thaetis</hi> forſake thy watry bower, as when</l>
+               <l>Thou chear'ſt thy Sonne, wrong'd by the King of men,</l>
+               <l>With all thy watry Traine, ſet forth to meet</l>
+               <l>
+                  <hi>Englands</hi> Great Queen, who doth o're <hi>Neptune</hi> fleet:</l>
+               <l>A Princeſſe made of goodneſſe, and compact</l>
+               <l>Of all thoſe vertues make her Sex exact,</l>
+               <l>Her vertue wounds her, and ſhe flies from them,</l>
+               <l>Which vertue as a thing of nought eſteeme.</l>
+               <l>
+                  <hi>France,</hi> let thy Genius ſmile, our loſſe to thee</l>
+               <l>Will cauſe loud Ecchoes of ſweet jollitie.</l>
+               <l>
+                  <pb n="11" facs="tcp:114111:6"/>
+Heaven forbid thou ſhouldſt from goodnes fail,</l>
+               <l>And our diſeaſe be Epidemicall,</l>
+               <l>That thou ſhouldſt faile Her Highneſſe to accept,</l>
+               <l>And honour <hi>Charles</hi> his Sponſe with dread reſpect:</l>
+               <l>No, we have better thoughts, and wee'l not feare</l>
+               <l>That ſhee'l with joy returne, and cheare us here.</l>
+            </div>
+            <div type="poem">
+               <head>POETASTERS.</head>
+               <l>FRom that all ſcient, ever ſpringing Fount,</l>
+               <l>Upon the two-brow'd hill, Pernaſſus Mount,</l>
+               <l>The Fountaine that <hi>Perſeus</hi> winged Horſe</l>
+               <l>Strooke with his hindfoot, when he fetcht his courſe</l>
+               <l>Through the thriſe three times lythe and gentle ayre</l>
+               <l>To ſave from ſpoyle <hi>Andromeda</hi> the faire;</l>
+               <l>How come ſo many thence water to draw,</l>
+               <l>Whom <hi>Homer</hi> nor the Muſes never ſaw?</l>
+               <l>Learn'd <hi>Tailor, Martin Parker,</hi> have their lot,</l>
+               <l>And as a third take in, <hi>Mercer</hi> the Scot.</l>
+            </div>
+            <div type="poem">
+               <head>The Independent Presbyter.</head>
+               <l>ALinſey Woolſey Garment mixt with haire,</l>
+               <l>Halfe Aſſe, halfe Mule, or like the Minotaure,</l>
+               <l>A Probleme of two Sexes in one met,</l>
+               <l>As if a Camell ſhould a Cow beget,</l>
+               <l>
+                  <hi>Nabuchadnezars</hi> Image, Waters Smoake,</l>
+               <l>Or as an Aple grafted on an Oake,</l>
+               <l>So the rude Chaos in an heape was laid,</l>
+               <l>When cold the heate, the heate the cold gainſaid:</l>
+               <l>When like an <hi>Embrio,</hi> this whole maſſe of clay,</l>
+               <l>Before the <hi>Fiat,</hi> yet imperfect lay.</l>
+            </div>
+            <div type="poem">
+               <head>The Preaching Souldier, and the ſighting Prieſt.</head>
+               <l>THe world's turn'd arſey varſey, upſide downe,</l>
+               <l>Old cuſtomes out of faſhion now are growne,</l>
+               <l>And in great Brittaine 'tis moſt ſure, there is</l>
+               <l>
+                  <hi>A</hi> ſtrange and wondrous Metamorphoſis;</l>
+               <l>Henceforward, it will not ſo ſtrange appeare</l>
+               <l>To me, that I ſhould credit <hi>Plato's</hi> yeare:</l>
+               <l>I will beleeve mens ſoules to beaſts do paſſe,</l>
+               <l>The ſtrange opinion of <hi>Pythagoras;</hi>
+               </l>
+               <l>That there's a world i'th' Moone, and Ile nere ſwell</l>
+               <l>To heare there is redemption out of hell:</l>
+               <l>
+                  <pb n="12" facs="tcp:114111:7"/>
+Great Neptunes love, killing <hi>Meduſas</hi> head,</l>
+               <l>The maid-fac'd Harpyes, nor that the winds have bred</l>
+               <l>Swift Spaniſh Gennets; Ilè nere henceforth doubt</l>
+               <l>Holy S. <hi>Dunſtane</hi> clinch'd the Devils ſnout:</l>
+               <l>For things more ſtrange I with theſe eyes have ſeene,</l>
+               <l>A change of that I thought ſhould nere have been.</l>
+               <l>The very Heathen have allotted Prieſts,</l>
+               <l>And they muſt only waite on <hi>Bacchus</hi> Feaſts;</l>
+               <l>
+                  <hi>Delphian Apollo</hi> hath his offerings ſlaine,</l>
+               <l>Only by thoſe his offerings do maintaine;</l>
+               <l>The Snake-like God <hi>Serapis,</hi> whom with feare</l>
+               <l>Even all rich <hi>Aegypt,</hi> and the Nations nere</l>
+               <l>Devoutly worſhip, hath his long-gound traine,</l>
+               <l>Whoſe worke 'tis only Incenſe to maintaine;</l>
+               <l>
+                  <hi>Minervas</hi> Temple that doth kiſſe the skie,</l>
+               <l>Where fam'd <hi>Pſamniticus</hi> intomb'd doth lie,</l>
+               <l>Hath thoſe who only do her Rites attend;</l>
+               <l>No Laick Thiefe muſt there his duty ſpend,</l>
+               <l>Where <hi>Pan</hi> the <hi>Arcadian</hi> God was worſhipped,</l>
+               <l>And Goats ador'd: there Goats (as I have read)</l>
+               <l>Do mixe with women-kind, ſo got was he</l>
+               <l>Who lov'd the boy turn'd to a Cypreſſe Tree;</l>
+               <l>Yet even this ruſtick Deity hath thoſe</l>
+               <l>To kill his offerings who nought elſe diſpoſe:</l>
+               <l>But we who ſerve the true Almighty Jove,</l>
+               <l>Unto our maker ſhew ſo little love,</l>
+               <l>That we permit both Prieſts and Laity</l>
+               <l>Serve in the Temple to his Deity.</l>
+               <l>The Prieſts of <hi>Mars</hi> nere ſerv'd at <hi>Juno's</hi> ſhrine,</l>
+               <l>But Souldiers now deſcant on things Divine;</l>
+               <l>And that we might amaze the world, we let</l>
+               <l>Prieſts upon barbed horſes for to get;</l>
+               <l>
+                  <hi>Lincolne</hi> alight, doth all Gods Lore afford</l>
+               <l>Thou ſhouldſt the Pulpit leave, to take the Sword?</l>
+               <l>To ſee thee arm'd doth trouble me ſo ſore,</l>
+               <l>An uncouch'd <hi>Affrick</hi> Monſter could not more;</l>
+               <l>Th'art a right Centaure, ſome it much delights:</l>
+               <l>To ſee thee ſcuffle 'mongſt the <hi>Lapethites.</hi>
+               </l>
+               <l>I doe abhorre a woman ſhould weare breeches,</l>
+               <l>A Prieſt that fights, a man at Armes that Preaches.</l>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
